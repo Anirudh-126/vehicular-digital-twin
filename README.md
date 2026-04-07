@@ -45,3 +45,5 @@ Microsoft GeoLife GPS dataset
 
 ## Use Case
 Smart mobility, digital twin systems, real-time anomaly detection.
+
+The system demonstration is available at: https://vehicular-demo.vercel.app
