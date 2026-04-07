@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs & DB
+*.log
+*.db
+
+# Environment files
+.env
+
+# Dataset (large files)
+dataset/
+dataset/geolife/
+
+# Generated files
+*.html
+
+# OS files
+.DS_Store
+Thumbs.db
